@@ -1,0 +1,17 @@
+﻿  compilation object save succeeded; see C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\x64\Debug\PixelShader.cso
+  compilation object save succeeded; see C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\x64\Debug\VertexShader.cso
+  D12Core.cpp
+  Graphics.cpp
+C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\Graphics.cpp(15,37): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\Graphics.cpp(16,39): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\Graphics.cpp(377,10): warning C4101: 'hr': unreferenced local variable
+  LWindow.cpp
+  main.cpp
+  Scene.cpp
+C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\Scene.cpp(3,29): warning C4356: 'D12Core::m_width': static data member cannot be initialized via derived class
+C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\Scene.cpp(4,30): warning C4356: 'D12Core::m_height': static data member cannot be initialized via derived class
+  WindowsApp.cpp
+C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\WindowsApp.cpp(87,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Generating Code...
+C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\Graphics.cpp(1921): warning C4715: 'Graphics::GetDXGIFormatBitsPerPixel': not all control paths return a value
+  DirectLighting.vcxproj -> C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\x64\Debug\DirectLighting.exe

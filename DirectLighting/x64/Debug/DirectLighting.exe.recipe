@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\x64\Debug\DirectLighting.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\x64\Debug\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\liam0\Downloads\DirectLighting-RazWorking (1)\DirectLighting-RazWorking\DirectLighting\x64\Debug\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
